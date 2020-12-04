@@ -1,0 +1,12 @@
+#card{
+  position: relative;
+  margin: auto;
+  text-align: center;
+  height: 12cm;
+  width: 25cm;
+  top: 3cm;
+}
+
+h5{
+  font-family: 'Kanit', sans-serif;
+}
