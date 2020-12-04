@@ -6,11 +6,15 @@ export default class Loginfrom extends Component{
 	render(){
 		return(
 			<React.Fragment>
-				<card className="card" id={styles.card}>
-					<div className="card-header">
+				<div className="card" id={styles.card}>
+					<div className="card-title my-3">
 						<h5>ระบบขอใช้รถ สำนักประชาสัมพันธ์เขต 6</h5>
 					</div>
-				</card>
+						<div className="card-img-top" id={styles.img}>
+							image
+						</div>
+
+				</div>
 		   </React.Fragment>
 		)
 	}

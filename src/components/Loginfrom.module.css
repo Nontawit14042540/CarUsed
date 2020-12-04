@@ -10,3 +10,12 @@
 h5{
   font-family: 'Kanit', sans-serif;
 }
+
+#img{
+  position: relative;
+  height: 2cm;
+  width: 12.5cm;
+  height: 9.5cm;
+  left: .5cm;
+  border-style: solid;
+}
