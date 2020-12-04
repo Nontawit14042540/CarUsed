@@ -1,0 +1,14 @@
+#navbarbrand{
+  color: #fec503;
+  margin: auto;
+  font-family: Kaushan Script,Helvetica Neue,Helvetica,Arial,cursive;
+}
+
+@media (min-width:700px) {
+  #navbarbrand {
+    font-size: 1.75em;
+    transition: all .3s;
+  }
+}
+
+
