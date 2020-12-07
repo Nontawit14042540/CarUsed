@@ -7,7 +7,7 @@
   top: 3cm;
 }
 
-h5{
+h5 {
   font-family: 'Kanit', sans-serif;
 }
 
@@ -18,4 +18,36 @@ h5{
   height: 9.5cm;
   left: .5cm;
   border-style: solid;
+}
+
+#body{
+  position: absolute;
+  top: 1.68cm;
+  left: 12.95cm;
+  width: 11.5cm;
+  height: 9.5cm;
+}
+
+.txtLogin{
+  font-family: 'Kanit', sans-serif; 
+  width: 9.5cm;
+}
+
+.logfrom{
+  position: absolute;
+  width: 9.5cm;
+  top: 1.5cm;
+  text-align: left;
+  font-family: 'Kanit', sans-serif;
+}
+
+#container{
+  position: absolute;
+  top: 1.5cm;
+}
+
+.btn{
+  position: relative;
+  margin: auto;
+  text-align: center;
 }
